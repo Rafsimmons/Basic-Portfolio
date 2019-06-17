@@ -4,5 +4,11 @@ header {
   line-height: 200%
 }
 
+nav div {
+  float:right;
+}
 
-
+img {
+  height: 350px;
+  width: 300px;
+}
