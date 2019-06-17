@@ -1,6 +1,8 @@
 header {
   background:teal;
-  font-family:Georgia, 'Times New Roman', Times, serif
+  font-family:Georgia, 'Times New Roman', Times, serif, 100px;
+  line-height: 200%
 }
+
 
 
