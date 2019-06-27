@@ -62,8 +62,8 @@ h1 {
   background-color: teal;
 }
 
-.bottomline {
-  width: 100%;
-  border-inline:10px;
-  border-inline-color:red;
+.greenline {
+  padding:1px;
+  
 }
+
